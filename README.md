@@ -26,5 +26,5 @@ Since I started college, I have participated in loads projects. There are some e
 - Machine learning / Deep learning;
 ##
 <strong>CONTACT</strong><br>
-[E-mail](lucaspernambucano@live.com) | [LinkedIn](https://www.linkedin.com/in/lucas-carvalho-840980298/)
+[LinkedIn](https://www.linkedin.com/in/lucas-carvalho-840980298/) | E-mail: lucaspernambucano@live.com 
 ##
