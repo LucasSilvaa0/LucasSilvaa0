@@ -1,11 +1,5 @@
 ## Hello, I am Lucas and I love technology 👋
 
-<strong>STARTING</strong><br>
-I've started in this area studying Python when I was 13 years old and I fell in love with programming!
-##
-<strong>COMPETING</strong><br>
-I competed and was awarded in 4 competitive programs: Brasilian IT Olympiad(2020), Pernambuco IT Olympiad(2020, 2021) and SBC Marathon Schedule Phase 0(2024).
-##
 <strong>STUDY</strong><br>
 I study Computer Science in the Centro de Informática(CIn) from Universidade Federal de Pernambuco(UFPE) since 2023.
 ##
@@ -16,6 +10,12 @@ Main technologies with experience
 - **FRONTEND:** *ReactJS, NextJS;*
 - **DATA:** *SQL, MySQL, PostgreSQL, DataCamp;*
 - **CLOUD STORAGE:** *DOCKER, Cloudinary;*
+##
+<strong>STARTING</strong><br>
+I've started in this area studying Python when I was 13 years old and I fell in love with programming!
+##
+<strong>COMPETING</strong><br>
+I competed and was awarded in 4 competitive programs: Brasilian IT Olympiad(2020), Pernambuco IT Olympiad(2020, 2021) and SBC Marathon Schedule Phase 0(2024).
 ##
 <strong>COLLEGE PROJECTS</strong><br>
 Since I started college, I have participated in loads projects. There are some exemples:<br>
