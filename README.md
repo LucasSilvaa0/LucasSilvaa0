@@ -8,8 +8,9 @@ Today I'm so interested in Software Delevoping. Here in my GitHub I have fixed o
 Main technologies with experience
 - **BACKEND:** *Express, NodeJS, DJango;* 
 - **FRONTEND:** *ReactJS, NextJS;*
-- **DATA:** *SQL, MySQL, PostgreSQL, Supabase;*
-- **CLOUD STORAGE:** *DOCKER, Cloudinary;*
+- **DATA:** *SQL, MySQL, PostgreSQL;*
+- **FERRAMENTAS:** *Docker, Postman, Cloudinary, Supabase;*
+
 ##
 <strong>STARTING</strong><br>
 I've started in this area studying Python when I was 13 years old and I fell in love with programming!
