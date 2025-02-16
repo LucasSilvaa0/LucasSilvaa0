@@ -9,7 +9,7 @@ Main technologies with experience
 - **BACKEND:** *Express, NodeJS, DJango;* 
 - **FRONTEND:** *ReactJS, NextJS;*
 - **DATA:** *SQL, MySQL, PostgreSQL;*
-- **TOOLS:** *Docker, Postman, Cloudinary, Supabase;*
+- **TOOLS:** *Cucumber, Docker, Postman, Cloudinary, Supabase;*
 
 ##
 <strong>STARTING</strong><br>
