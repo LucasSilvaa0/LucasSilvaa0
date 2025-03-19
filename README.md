@@ -6,10 +6,10 @@ I study Computer Science in the Centro de Informática(CIn) from Universidade Fe
 <strong>DEDICATION</strong><br>
 Today I'm so interested in Software Delevoping. Here in my GitHub I have fixed on my profile some projects I've made of developing and I'm always trying to learn more and be better than I already am.<br>
 Main technologies with experience
-- **BACKEND:** *Express, NodeJS, DJango;* 
+- **BACKEND:** *Express, NodeJS, DJango, ASP.NET;* 
 - **FRONTEND:** *ReactJS, NextJS;*
 - **DATA:** *SQL, MySQL, PostgreSQL;*
-- **TOOLS:** *Cucumber, Docker, Postman, Cloudinary, Supabase;*
+- **TOOLS:** *Cucumber, Cypress, Docker, Postman, Cloudinary, Supabase;*
 
 ##
 <strong>STARTING</strong><br>
