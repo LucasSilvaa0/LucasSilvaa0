@@ -1,34 +1,43 @@
-## Hello, I am Lucas and I love technology 👋
+# Hi, I'm Lucas 👋
 
-<strong>STUDY</strong><br>
-I study Computer Science in the Centro de Informática(CIn) from Universidade Federal de Pernambuco(UFPE) since 2023.
-##
-<strong>DEDICATION</strong><br>
-Today I'm so interested in Software Delevoping. Here in my GitHub I have fixed on my profile some projects I've made of developing and I'm always trying to learn more and be better than I already am.<br>
-Main technologies with experience
-- **BACKEND:** *Express, NodeJS, DJango, ASP.NET;* 
-- **FRONTEND:** *ReactJS, NextJS;*
-- **DATA:** *SQL, MySQL, PostgreSQL;*
-- **TOOLS:** *Cucumber, Cypress, Docker, Postman, Cloudinary, Supabase;*
+**Software Engineer** · B.Sc. in Computer Science at CIn/UFPE (expected 2027) · Recife, Brazil · Open to remote work
 
-##
-<strong>STARTING</strong><br>
-I've started in this area studying Python when I was 13 years old and I fell in love with programming!
-##
-<strong>COMPETING</strong><br>
-I competed and was awarded in 4 competitive programs: Brasilian IT Olympiad(2020), Pernambuco IT Olympiad(2020, 2021) and SBC Marathon Schedule Phase 0(2024).
-##
-<strong>COLLEGE PROJECTS</strong><br>
-Since I started college, I have participated in loads projects. There are some exemples:<br>
-- Software Engineer;
-- GameDev;
-- Database;
-- Hardware-Software Integration Engineer;
-- Machine learning / Deep learning;
-##
-<strong>CONTACT</strong><br>
-<div style="display: inline_block"> 
-  <a href="https://www.linkedin.com/in/lucas-carvalho-840980298/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div> <br/>
-  E-mail: <a href="mailto:lucaspernambucano@live.com">lucaspernambucano@live.com</a>
-</div>
+I build web and mobile apps with **TypeScript, Node.js, React and PostgreSQL**, and I have 1.5 years of product experience in **C++/Qt**, working on a desktop application for structural engineering used by engineers across Brazil.
 
+## 🚀 Featured projects
+
+- **[CaderninhoMEI](https://github.com/jorge-junior/caderninho-mei)**: cash flow app for micro-entrepreneurs (MEIs) with an AI assistant that gives personalized recommendations. I led the developers of a 9-person team and built the integration between the app and the AI API. **Won 3 awards at CIn's Projetão 2025.1: Best Project, Highest Market Potential and Best Pitch.**
+  `TypeScript` `Node.js` `Express` `React Native` `PostgreSQL`
+- **Hospital exam request tool**: a tool for doctors at a public hospital in Recife. The doctor checks the exams in a list and the request form comes out ready to print. Built in less than a week; **cut each request from about 5 minutes to 1 minute (-80%)**.
+  `JavaScript`
+- **[projectE-commerce](https://github.com/LucasSilvaa0/projectE-commerce)**: full stack e-commerce website I built on my own.
+  `JavaScript`
+- **[E-CommerceESS](https://github.com/LucasSilvaa0/E-CommerceESS)**: team project for the Software and Systems Engineering course, with automated tests.
+  `TypeScript` `Next.js` `Supabase` `Cypress`
+
+## 🛠️ Tech stack
+
+- **Languages:** TypeScript, JavaScript, Python, C++, Java, SQL
+- **Backend:** Node.js, Express, NestJS, Django, REST APIs
+- **Frontend & mobile:** React, Next.js, React Native
+- **Desktop:** Qt, CMake
+- **Databases:** PostgreSQL, MySQL, Supabase
+- **Tools & testing:** Git, Docker, Postman, Cypress, AI coding tools (LLMs and agents)
+
+## 💼 Experience
+
+- **Software Engineer** at AltoQI (remote), May 2025 to Oct 2026, starting as an intern: C++/Qt desktop development, bug fixing, performance and stability, code review, Scrum.
+- **Teaching Assistant** at CIn/UFPE: Software Infrastructure (concurrent programming in Java), Distributed Systems and Computer Networks, and Head TA of Calculus I.
+
+## 🏆 Awards
+
+- Best Project, Highest Market Potential and Best Pitch · Projetão 2025.1, CIn/UFPE (2025)
+- Honorable Mention · SBC Programming Marathon (2024)
+- Bronze Medal · Brazilian Olympiad in Informatics (2020)
+- Silver Medal · Pernambuco Olympiad in Informatics (2020 and 2021)
+
+I started programming in Python at 13 and never stopped.
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/lucas-carvalho-840980298/) · lucaspernambucano@live.com
