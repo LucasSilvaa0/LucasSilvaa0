@@ -8,12 +8,12 @@ I build web and mobile apps with **TypeScript, Node.js, React and PostgreSQL**, 
 
 - **[CaderninhoMEI](https://github.com/jorge-junior/caderninho-mei)**: cash flow app for micro-entrepreneurs (MEIs) with an AI assistant that gives personalized recommendations. I led the developers of a 9-person team and built the integration between the app and the AI API. **Won 3 awards at CIn's Projetão 2025.1: Best Project, Highest Market Potential and Best Pitch.**
   `TypeScript` `Node.js` `Express` `React Native` `PostgreSQL`
+- **[E-CommerceESS](https://github.com/LucasSilvaa0/E-CommerceESS)**: team project for the Software and Systems Engineering course, with automated tests.
+  `TypeScript` `Next.js` `Supabase` `Cypress`
 - **Hospital exam request tool**: a tool for doctors at a public hospital in Recife. The doctor checks the exams in a list and the request form comes out ready to print. Built in less than a week; **cut each request from about 5 minutes to 1 minute (-80%)**.
   `JavaScript`
 - **[projectE-commerce](https://github.com/LucasSilvaa0/projectE-commerce)**: full stack e-commerce website I built on my own.
   `JavaScript`
-- **[E-CommerceESS](https://github.com/LucasSilvaa0/E-CommerceESS)**: team project for the Software and Systems Engineering course, with automated tests.
-  `TypeScript` `Next.js` `Supabase` `Cypress`
 
 ## 🛠️ Tech stack
 
